@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: sample2
 data:
-  index.html: hello world @2!!!
+  index.html: hello world @2023!!!
